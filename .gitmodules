@@ -1,0 +1,6 @@
+[submodule "catalog-ui"]
+	path = catalog-ui
+	url = https://github.com/sivamani-resolve/catalog-ui.git
+[submodule "dashboard-ui"]
+	path = dashboard-ui
+	url = https://github.com/sivamani-resolve/dashboard-ui.git
